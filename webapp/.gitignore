@@ -22,4 +22,9 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
 .idea/
+*.iml
+.vsc/
+vcs.xml
+modules.xml
